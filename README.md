@@ -15,7 +15,6 @@ Senior iOS Software Engineer. Started learning iOS development in **February 202
 - **Replex**: [Website](https://alexryakhin.github.io/Replex/) · [App Store](https://apps.apple.com/app/6476805884)
 - **Pure Bite**: [Website](https://alexryakhin.github.io/PureBite/) · [App Store](https://apps.apple.com/app/id6505026086)
 - **Price Wizard**: [Website](https://alexryakhin.github.io/PriceWizard/) · [App Store](https://apps.apple.com/app/id6759319356)
-- **OneGrab**: [Website](https://alexryakhin.github.io/OneGrab/) · [App Store](https://apps.apple.com/app/id6759439265)
 - **Guaraní Converter**: [Website](https://alexryakhin.github.io/guarani-currency-converter-page/) · [App Store](https://apps.apple.com/app/id6760961975)
 
 ## 🚧 In progress
