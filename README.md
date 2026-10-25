@@ -2,7 +2,7 @@
 
 Senior iOS Software Engineer with **5+ years** of professional experience. I build my own apps for iPhone, iPad, Mac and Apple Watch: apps for learning languages, getting stronger and building better habits.
 
-🌐 **[alexriakhin.com](https://alexriakhin.com)** · ✉️ [bonney977@gmail.com](mailto:bonney977@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/xander1100001)
+🌐 **[alexriakhin.com](https://alexriakhin.com)** · ✉️ [hello@alexriakhin.com](mailto:hello@alexriakhin.com) · 💼 [LinkedIn](https://www.linkedin.com/in/xander1100001)
 
 ## 📱 My apps
 
