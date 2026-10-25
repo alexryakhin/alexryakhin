@@ -6,36 +6,23 @@ Senior iOS Software Engineer with **5+ years** of professional experience. I bui
 
 ## 📱 My apps
 
-<table>
-  <tr>
-    <td width="80"><img src="https://alexriakhin.com/images/elrecreo-icon.png" width="64" alt="El Recreo"></td>
-    <td><b>El Recreo</b> 🆕 · Learn the Spanish they really speak in Buenos Aires, through a story with your new neighbors in Palermo.<br><a href="https://apps.apple.com/app/id6761676545">App Store</a> · <a href="https://alexriakhin.com/ElRecreo/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://alexriakhin.com/images/mydictionary-icon.png" width="64" alt="My Dictionary"></td>
-    <td><b>My Dictionary</b> · Your own dictionary in 180+ languages, with definitions, pictures, spaced review and word games.<br><a href="https://apps.apple.com/app/id1588418793">App Store</a> · <a href="https://mydictionary.org">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://alexriakhin.com/images/flippin-icon.png" width="64" alt="Flippin"></td>
-    <td><b>Flippin</b> · Flashcards you can hear and speak, in 30+ languages.<br><a href="https://apps.apple.com/app/id6748499528">App Store</a> · <a href="https://www.flippin.app">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://alexriakhin.com/images/replex-icon.png" width="64" alt="Replex"></td>
-    <td><b>Replex</b> · A gym log for iPhone and Apple Watch, with ready-made plans and an AI coach.<br><a href="https://apps.apple.com/app/id6476805884">App Store</a> · <a href="https://alexriakhin.com/Replex/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://alexriakhin.com/images/purebite-icon.png" width="64" alt="PureBite"></td>
-    <td><b>PureBite</b> · Intermittent fasting tracker with a Lock Screen timer, Ramadan mode and recipes.<br><a href="https://apps.apple.com/app/id6505026086">App Store</a> · <a href="https://alexriakhin.com/PureBite/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://alexriakhin.com/images/guarani-icon.png" width="64" alt="Guaraní Converter"></td>
-    <td><b>Guaraní Converter</b> · Fast Paraguayan guaraní currency converter for iPhone and Mac.<br><a href="https://apps.apple.com/app/id6760961975">App Store</a> · <a href="https://alexriakhin.com/guarani-currency-converter-page/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://alexriakhin.com/images/pricewizard-icon.png" width="64" alt="Price Wizard"></td>
-    <td><b>Price Wizard</b> · Territory pricing for App Store subscriptions and in-app purchases.<br><a href="https://apps.apple.com/app/id6759319356">App Store</a> · <a href="https://alexriakhin.com/PriceWizard/">Website</a></td>
-  </tr>
-</table>
+<p>
+  <a href="https://apps.apple.com/app/id6761676545"><img src="assets/icons/elrecreo.png" width="72" alt="El Recreo" title="El Recreo"></a>
+  <a href="https://apps.apple.com/app/id1588418793"><img src="assets/icons/mydictionary.png" width="72" alt="My Dictionary" title="My Dictionary"></a>
+  <a href="https://apps.apple.com/app/id6748499528"><img src="assets/icons/flippin.png" width="72" alt="Flippin" title="Flippin"></a>
+  <a href="https://apps.apple.com/app/id6476805884"><img src="assets/icons/replex.png" width="72" alt="Replex" title="Replex"></a>
+  <a href="https://apps.apple.com/app/id6505026086"><img src="assets/icons/purebite.png" width="72" alt="PureBite" title="PureBite"></a>
+  <a href="https://apps.apple.com/app/id6760961975"><img src="assets/icons/guarani.png" width="72" alt="Guaraní Converter" title="Guaraní Converter"></a>
+  <a href="https://apps.apple.com/app/id6759319356"><img src="assets/icons/pricewizard.png" width="72" alt="Price Wizard" title="Price Wizard"></a>
+</p>
+
+- **El Recreo** 🆕 · Learn the Spanish they really speak in Buenos Aires, through a story with your new neighbors in Palermo. [App Store](https://apps.apple.com/app/id6761676545) · [Website](https://alexriakhin.com/ElRecreo/)
+- **My Dictionary** · Your own dictionary in 180+ languages, with definitions, pictures, spaced review and word games. [App Store](https://apps.apple.com/app/id1588418793) · [Website](https://mydictionary.org)
+- **Flippin** · Flashcards you can hear and speak, in 30+ languages. [App Store](https://apps.apple.com/app/id6748499528) · [Website](https://www.flippin.app)
+- **Replex** · A gym log for iPhone and Apple Watch, with ready-made plans and an AI coach. [App Store](https://apps.apple.com/app/id6476805884) · [Website](https://alexriakhin.com/Replex/)
+- **PureBite** · Intermittent fasting tracker with a Lock Screen timer, Ramadan mode and recipes. [App Store](https://apps.apple.com/app/id6505026086) · [Website](https://alexriakhin.com/PureBite/)
+- **Guaraní Converter** · Fast Paraguayan guaraní currency converter for iPhone and Mac. [App Store](https://apps.apple.com/app/id6760961975) · [Website](https://alexriakhin.com/guarani-currency-converter-page/)
+- **Price Wizard** · Territory pricing for App Store subscriptions and in-app purchases. [App Store](https://apps.apple.com/app/id6759319356) · [Website](https://alexriakhin.com/PriceWizard/)
 
 🤖 Android versions are on the way, starting with El Recreo.
 
